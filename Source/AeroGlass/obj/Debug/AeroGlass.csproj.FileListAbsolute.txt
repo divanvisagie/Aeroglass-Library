@@ -1,0 +1,5 @@
+C:\Users\Divan\Desktop\AeroGlass\AeroGlass\bin\Debug\AeroGlass.dll
+C:\Users\Divan\Desktop\AeroGlass\AeroGlass\bin\Debug\AeroGlass.pdb
+C:\Users\Divan\Desktop\AeroGlass\AeroGlass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Divan\Desktop\AeroGlass\AeroGlass\obj\Debug\AeroGlass.dll
+C:\Users\Divan\Desktop\AeroGlass\AeroGlass\obj\Debug\AeroGlass.pdb
